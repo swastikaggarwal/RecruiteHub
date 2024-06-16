@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-maven-pro: "Maven Pro";
+  --secondary-text: Inter;
+  --font-segoe-ui: "Segoe UI";
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-mini: 15px;
+  --font-size-sm: 14px;
+  --font-size-20xl: 39px;
+  --secondary-text-size: 12px;
+  --value-text-size: 32px;
+  --font-size-4xs: 9px;
+  --primary-text-size: 20px;
+  --font-size-5xs: 8px;
+  --font-size-3xs: 10px;
+  --font-size-2xs: 11px;
+  --font-size-5xl: 24px;
+  --font-size-smi: 13px;
+  --font-size-base: 16px;
+  --font-size-7xs: 6px;
+
+  /* Colors */
+  --black: #000;
+  --color-whitesmoke-100: #f7f7f7;
+  --color-whitesmoke-200: #ecebeb;
+  --color-dimgray-100: #666;
+  --color-dimgray-200: #505050;
+  --gray: #4f4f4f;
+  --white: #fff;
+  --color-plum-100: #e295ba;
+  --color-plum-200: #a095c9;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: #dad7d7;
+  --gray-2: #bdbdbd;
+  --color-silver-100: #b7b7b8;
+  --color-darkslategray-100: #474545;
+  --color-darkslategray-200: #373737;
+  --color-8: #2d9cdb;
+  --color-steelblue-100: #6c6194;
+  --color-6: #43aa8b;
+  --color-5: #90be6d;
+  --color-1: #f94144;
+  --color-crimson-100: #e93c3c;
+  --color-3: #f8961e;
+  --color-2: #f3722c;
+  --color-forestgreen-100: #2aaa37;
+  --color-darkslateblue-100: #695c9a;
+  --color-darkslateblue-200: #273874;
+  --color-darkslateblue-300: rgba(39, 56, 116, 0.5);
+  --color-gray-100: #7e7e7e;
+  --color-gray-200: #757575;
+  --color-gray-300: #1b1b1b;
+  --color-gray-400: rgba(0, 0, 0, 0.04);
+  --color-gray-500: rgba(0, 0, 0, 0.3);
+  --color-olivedrab: #6cad55;
+  --color-cadetblue: #73b7b3;
+  --color-blue: #3e10f4;
+  --color-aqua: #13fbed;
+  --color-mediumvioletred: #f22dc7;
+  --color-red-100: #fb1313;
+  --color-red-200: rgba(221, 3, 3, 0.75);
+  --color-paleturquoise: #b8f7f3;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-7xs: 6px;
+  --br-8xs: 5px;
+  --br-mini: 15px;
+  --br-5xs: 8px;
+  --br-12xs: 1px;
+  --br-14xl-5: 33.5px;
+  --br-4xs: 9px;
+  --br-5xl: 24px;
+}

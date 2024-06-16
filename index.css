@@ -1,0 +1,292 @@
+.sign-up-child {
+  position: absolute;
+  top: -21px;
+  left: 564px;
+  border-radius: 36px;
+  background-color: var(--white);
+  width: 967px;
+  height: 1003px;
+}
+.pngtreebusiness-logo-design-f {
+  position: absolute;
+  top: 31px;
+  left: 40px;
+  width: 82px;
+  height: 98px;
+  object-fit: cover;
+}
+.recruitehub,
+.recruitehub1 {
+  position: absolute;
+  top: 146px;
+  left: 40px;
+  font-size: var(--font-size-20xl);
+  letter-spacing: 0.2em;
+  line-height: 28px;
+  font-weight: 600;
+  color: var(--white);
+  display: inline-block;
+  width: 441px;
+  height: 91px;
+}
+.recruitehub1 {
+  top: 117px;
+  left: 885px;
+  color: var(--color-darkslategray-200);
+}
+.ccexpress-1-icon {
+  position: absolute;
+  top: 197px;
+  left: -39px;
+  width: 722.2px;
+  height: 672.3px;
+  object-fit: contain;
+}
+.english-uk {
+  position: absolute;
+  top: 31px;
+  left: 1280px;
+  letter-spacing: 0.1em;
+  line-height: 28px;
+  font-weight: 600;
+  color: #c4c4c4;
+  display: inline-block;
+  width: 124px;
+  height: 28px;
+}
+.sign-up-item {
+  position: absolute;
+  top: 35px;
+  left: 1427.4px;
+  width: 25.6px;
+  height: 19px;
+  object-fit: contain;
+}
+.create-account,
+.or- {
+  position: absolute;
+  top: 266px;
+  left: 1029px;
+  line-height: 24.5px;
+  display: inline-block;
+  width: 77px;
+  height: 37px;
+}
+.create-account {
+  top: 0;
+  left: 830px;
+  line-height: 28px;
+  font-weight: 600;
+  color: var(--black);
+  width: 251px;
+  height: 27px;
+}
+.main-child {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 178px;
+  height: 41px;
+}
+.pngtreegoogle-plus-social-med {
+  position: absolute;
+  top: 54px;
+  left: 2px;
+  width: 30px;
+  height: 27px;
+  object-fit: cover;
+}
+.sign-up-with,
+.sign-up-with1 {
+  position: absolute;
+  top: 59px;
+  left: 275px;
+  font-size: var(--font-size-sm);
+  line-height: 15.5px;
+}
+.sign-up-with1 {
+  left: 32px;
+  font-size: var(--font-size-mini);
+}
+.facebook-logo-icon-vector-11-c {
+  position: absolute;
+  top: 56px;
+  left: 235px;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.main-item {
+  position: absolute;
+  top: 49px;
+  left: 230px;
+  border-radius: var(--br-3xs);
+  border: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 195px;
+  height: 41px;
+}
+.main {
+  position: absolute;
+  top: 146px;
+  left: 812px;
+  width: 408px;
+  height: 90px;
+  font-size: 26px;
+}
+.last-child {
+  text-decoration: none;
+  position: absolute;
+  top: 272.8px;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-plum-100);
+  width: 443.3px;
+  height: 59.6px;
+  cursor: pointer;
+}
+.full-name {
+  position: absolute;
+  top: 0;
+  left: 830px;
+  line-height: 24.5px;
+  display: inline-block;
+  width: 131px;
+  height: 37px;
+}
+.log-in {
+  color: var(--color-plum-100);
+}
+.already-have-an-container {
+  position: absolute;
+  top: 366.7px;
+  left: 0;
+  line-height: 24.5px;
+  display: inline-block;
+  width: 276.5px;
+  height: 37.3px;
+}
+.create-account1,
+.email-adress,
+.password {
+  position: absolute;
+  line-height: 24.5px;
+  display: inline-block;
+  height: 37px;
+}
+.create-account1 {
+  top: 290px;
+  left: 112px;
+  font-weight: 500;
+  color: var(--white);
+  text-align: center;
+  width: 236px;
+}
+.email-adress,
+.password {
+  top: 82px;
+  left: 0;
+  width: 124px;
+}
+.password {
+  top: 177px;
+  width: 138px;
+  height: 31px;
+}
+.last-inner,
+.last-item,
+.line-div {
+  position: absolute;
+  top: 36.8px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-whitesmoke-200);
+  box-sizing: border-box;
+  width: 444.3px;
+  height: 1px;
+}
+.last-inner,
+.line-div {
+  top: 118.8px;
+}
+.line-div {
+  top: 214.2px;
+}
+.eleye-close-icon,
+.last {
+  position: absolute;
+  top: 177px;
+  left: 416px;
+  width: 27.4px;
+  height: 32.8px;
+}
+.last {
+  top: 321px;
+  left: 830px;
+  width: 443.4px;
+  height: 404px;
+}
+.working-people-6762820-5588516-icon {
+  position: absolute;
+  top: 237px;
+  left: 28px;
+  width: 186px;
+  height: 167px;
+  object-fit: cover;
+}
+.job-interview-4616025-3846823-icon,
+.nft-owner-4418547-3664058-1-icon {
+  position: absolute;
+  top: 741px;
+  left: 139px;
+  width: 183px;
+  height: 175px;
+  object-fit: cover;
+}
+.nft-owner-4418547-3664058-1-icon {
+  top: 636px;
+  left: 430px;
+  width: 139px;
+  height: 166px;
+}
+.man-searching-product-on-ecomm-icon {
+  position: absolute;
+  top: 236px;
+  left: 353px;
+  width: 132px;
+  height: 114px;
+  object-fit: cover;
+}
+.find-jobs-buy {
+  position: absolute;
+  top: 196px;
+  left: 20px;
+  letter-spacing: 0.2em;
+  line-height: 28px;
+  font-weight: 600;
+  color: var(--black);
+  display: inline-block;
+  width: 501px;
+  height: 44px;
+}
+.whatsapp-image-2024-06-14-at-2-icon {
+  position: absolute;
+  top: 12px;
+  left: 990px;
+  width: 115px;
+  height: 94px;
+  object-fit: cover;
+}
+.sign-up {
+  width: 100%;
+  position: relative;
+  background-color: #eea3c7;
+  height: 982px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-dimgray-200);
+  font-family: var(--font-maven-pro);
+}
